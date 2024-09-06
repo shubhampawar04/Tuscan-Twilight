@@ -14,12 +14,11 @@ import Footer from './components/Footer/Footer';
 import Login from "./views/Login/Login"
 import HomeCategories from './components/HomeCategories/HomeCategories';
 import "./index.css"
-import CategoryNonveg from "./views/Categories/categoryNonveg/CategorNonveg"
+import CategoryNonveg from "./views/Categories/categoryNonveg/non-veg header.jpg"
 import CategoriesVeg from './views/Categories/categoryVeg/CategoriesVeg';
 import CategoryBreakfast from "./views/Categories/categoryBreakfast/CategoryBreakfast"
 import MaharashtrianSpecial from './views/MaharashtrianSpecial/MaharashtrianSpecial';
 import SpecialDish from "./components/SpecialDish/Veg"
-import Dishcard from "./components/SpecialDish/Dishcard"
 import RecipeBreakfast from './views/Recipe/RecipeBreakfast/RecipeBreakfast';
 import Blog from './views/Blog/Blog';
 
@@ -97,10 +96,10 @@ const router = createBrowserRouter([
     path: "/specialdish",
     element: <SpecialDish/>
    },
-   {
-    path: "/Dishcard/:id",
-    element :<Dishcard />
-   },
+//    {
+//     path: "/Dishcard/:id",
+//     element :<Dishcard />
+//    },
    {
     path: "/blog",
     element : <Blog/>

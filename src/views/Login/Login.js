@@ -1,7 +1,7 @@
 import Navbar from "./../../components/Navbar/Navbar"
 import "./Login.css"
 import Footer from "./../../components/Footer/Footer"
-import LoginImg from "./../../assets/Login-Img/background-img-4.jpg"
+import LoginImg from "./../../assets/Login-img/background-img-4.jpg"
 import Facebook from "./../../assets/FooterImg/facebook.png"
 import Google from "./../../assets/FooterImg/google.png"
 import Email from "./../../assets/FooterImg/gmail.png"
@@ -26,7 +26,7 @@ function Login(){
                 <form>
                 <input type="text" className="input-box" placeholder="Username" required></input>
                 <input type="password" className="input-box" placeholder="Password" required></input><br></br>
-                <button className="loginbtn" type="submit" onClick={()=>{toast.success("login successfully...!!")}}>Login</button>
+                <button className="loginbtn" type="submit" onClick={()=>{toast.success("login successfully...✅")}}>Login</button>
                 </form>
                
                 

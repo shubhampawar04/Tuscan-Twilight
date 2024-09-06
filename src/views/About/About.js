@@ -1,15 +1,15 @@
 
 import "./About.css"
 import HotelStaff from "../../assets/About/hotel staff image.png"
-import Linkdine from "../../assets/About/linkdine12.png"
-import GitHub from "../../assets/About/github-sign.png"
-import Gmail from "../../assets/About/gmail.png"
+// import Linkdine from "../../assets/About/linkdine12.png"
+// import GitHub from "../../assets/About/github-sign.png"
+// import Gmail from "../../assets/About/gmail.png"
 import Navbar from "../../components/Navbar/Navbar"
 import Footer from "../../components/Footer/Footer"
-import ImgPranay from "../../assets/About/pranay img.jpeg"
-import ImgShriya from "../../assets/About/shriya.jpeg"
-import ImgSaurav from "../../assets/About/saurav.jpeg"
-import ImgLakshman from "../../assets/About/lakshman.jpeg"
+// import ImgPranay from "../../assets/About/pranay img.jpeg"
+// import ImgShriya from "../../assets/About/shriya.jpeg"
+// import ImgSaurav from "../../assets/About/saurav.jpeg"
+// import ImgLakshman from "../../assets/About/lakshman.jpeg"
 import { Link } from "react-router-dom"
 
 
@@ -54,9 +54,9 @@ function About() {
 
         </div>
 
-        <h1 className="our-team-title">Our Team</h1>
+        <h1 className="our-team-title">Thank You...❤️</h1>
 
-        <div className="our-team-container">
+        {/* <div className="our-team-container">
             <div className="team-member">
                 <img src={ImgPranay} className="team-member-image" />
                 <h5 className="member-name">Pranay Dandekar</h5>
@@ -122,7 +122,7 @@ function About() {
 
 
 
-        </div>
+        </div> */}
         <Footer />
     </>)
 

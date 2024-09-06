@@ -32,9 +32,9 @@ function Footer() {
         <p>FAQ</p>
       </div>
       <div className='contact-info-div'>
-        <p>About</p>
-        <p className='font-size-sm'>Dish Delight, Tilak ward main road new Delhi,
-          pin : 442903.
+        <p>About 🧑‍🍳</p>
+        <p className='font-size-sm'>Tuscan Twilight , Sunita Nagar main road Pune ,
+          pin : 411001 
         </p>
       
       </div>
@@ -42,7 +42,7 @@ function Footer() {
         <p className='contact-info-heading'>Contact Info</p>
         <img src={MobileImg} className='contact-logo align-items-start ' /><span className='font-size-sm'>+91 8698191275</span><br></br>
         <img src={EmailImg} className='contact-logo align-items-start ' /><span className='font-size-sm'>tuscantwilight@gmail.com</span><br></br>
-        <img src={Address} className='contact-logo align-items-start ' /><span className='font-size-sm'>1234 tuscantwilight Building,New &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delhi,12002700</span>
+        <img src={Address} className='contact-logo align-items-start ' /><span className='font-size-sm'>1234 tuscantwilight Building , &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pune , 12002700</span>
       </div>
 
     </div>
