@@ -12,7 +12,7 @@
     flex-wrap: wrap;
     height: 80px;
     width: 100%;
-    background-color:#F5E0D2 ;
+    background-color:rgb(221, 255, 127) ;
     border-bottom: 1px solid rgba(99, 92, 92, 0.1);
     box-shadow: 0 0 10px gray;
     position: sticky;
@@ -41,7 +41,7 @@
     flex-direction: column;
     align-items: start;
     color: white;
-     justify-content: space-evenly;
+    justify-content: space-evenly;
     padding-left: 20px;
 }
 .menu-navbar-item{
@@ -197,9 +197,9 @@
     
     .logo{
         height: 50px;
-         position: fixed;
+        position: fixed;
         left:10px;
-       top: 5px;
+        top: 5px;
         
        
     }

@@ -1,7 +1,3 @@
-
-
-
-
 function StarRating({ rating, totalstars = 5 }) {
     return (
       <div className="star-rating">

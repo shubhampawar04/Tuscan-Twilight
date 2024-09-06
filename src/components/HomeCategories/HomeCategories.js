@@ -8,7 +8,7 @@ function HomeCategories() {
     return (
         <>
             <h2 className="bg-secondary text-white mx-auto my-3 text-black px-1 py-2 rounded text-center w-50 ">
-                Categories Section
+                Categories Section 😋
             </h2>
             <div className="d-flex flex-wrap justify-content-evenly align-items-center">
                 {categoriesData.map((category, index) => (

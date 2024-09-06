@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Footer.css"
-import LogoImage from "./../../assets/logo.png"
+import LogoImage from "./../../assets/logo.webp"
 import MobileImg from "./../../assets/FooterImg/mobile.png"
 import EmailImg from "./../../assets/FooterImg/gmail.png"
 import Address from "./../../assets/FooterImg/location.png"

@@ -1,5 +1,5 @@
 import "./Navbar.css"
-import logo from "./../../assets/logo.png"
+import logo from "./../../assets/logo.webp"
 import {Link} from 'react-router-dom';
 import menuicon from "./menu.png"
 import { useState } from 'react';
